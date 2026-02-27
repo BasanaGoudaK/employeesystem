@@ -57,7 +57,7 @@ com.basu.employeesystem
 └── EmployeesystemApplication
 ⚙️ Setup Instructions
 1️⃣ Clone the Repository
-git clone https://github.com/your-username/employeesystem.git
+git clone https://github.com/BasanaGoudaK/employeesystem.git
 cd employeesystem
 2️⃣ Configure Database
 
